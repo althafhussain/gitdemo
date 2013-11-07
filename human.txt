@@ -1,2 +1,4 @@
 1 head
+2 body
+3 stomach
 1 tail
